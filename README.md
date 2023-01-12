@@ -1,2 +1,2 @@
-# Blurry-Loading---Traversy-Media-Project
+# Blurry-Loading-Traversy-Media-Project
 Traversy Media Project
